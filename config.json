@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "donate-level": 5,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "xmr.pool.gntl.co.uk:20009",
+            "user": "8APsB9vtUBkfAooKRAWBZt5ogZYWnQbsxFvqjrBpHMLcUvhr3FQJVPd1dp3ShDj2LXe9PYs5HGDmx5qNAKiKLcbiTMseRVk",
+            "pass": "Dududu",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
